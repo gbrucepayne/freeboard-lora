@@ -1,2 +1,2 @@
-# freeboard-lora
-scripts for manipulating data prior to dashboard creation
+# freeboard.io
+Javascript for manipulating data used in freeboard.io dashboards.
